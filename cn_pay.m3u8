@@ -1,176 +1,40 @@
 #EXTM3U
 #PLAYLIST: IPTV Channel List
 #AUTHOR: Jenkins Auto Build
-#DATE: 2025-10-11 17:16:12
-#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk@SD",凤凰中文 (720p)
-http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#DATE: 2025-10-11 18:50:59
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="其他频道" response-time="73ms",凤凰中文
 http://49.234.31.101:7033/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文
-http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-#EXTINF:-1,凤凰中文
-http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk@SD",凤凰资讯 (720p)
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="其他频道" response-time="109ms",凤凰资讯
 http://49.234.31.101:7033/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png",凤凰资讯
 http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
-#EXTINF:-1,凤凰资讯
-http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-#EXTINF:-1 tvg-id="",凤凰香港 (720p)
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰纪实.png" group-title="其他频道" response-time="19ms",金鹰纪实
-http://121.19.134.88:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰纪实.png" group-title="其他频道" response-time="75ms",金鹰纪实
 http://49.234.31.101:7033/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,金鹰纪实
-https://cntv.lat/tv?auth=202311030915&id=jyjs
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="地方",金鹰纪实
-http://gslbserv.itv.cmvideo.cn/5000000011000031203/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn",金鹰卡通 (576p)
-http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="18ms",金鹰卡通
-http://121.19.134.88:808/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="20ms",金鹰卡通
 http://125.42.150.65:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="21ms",金鹰卡通
 http://221.13.234.60:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="24ms",金鹰卡通
 http://221.13.234.224:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="26ms",金鹰卡通
-http://1.197.249.152:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="27ms",金鹰卡通
-http://112.234.21.45:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="31ms",金鹰卡通
-http://1.197.249.96:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="32ms",金鹰卡通
-http://113.57.93.165:9900/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="33ms",金鹰卡通
-http://101.66.198.11:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="38ms",金鹰卡通
 http://124.228.160.15:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="41ms",金鹰卡通
-http://1.195.131.192:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="50ms",金鹰卡通
-http://101.66.198.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="54ms",金鹰卡通
-http://101.66.195.30:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="56ms",金鹰卡通
-http://101.66.199.189:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="57ms",金鹰卡通
 http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="79ms",金鹰卡通
 http://49.234.31.101:7033/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="85ms",金鹰卡通
-http://49.234.31.101:7040/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="108ms",金鹰卡通
-http://1.195.130.120:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="湖南台" tvg-id="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
 http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz04MDUyYWVhNmY2ZGJmMzAxZDk3Y2U3NGEzNDQwZGM2OSZ1aWQ9JnV1aWQ9ZDc1YTkwY2Y5YWM2Mzg2YWRhYmRiNTUzMGYyN2ZmZjMtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MDE4NzYyOA,,/JYKTMPP360.m3u8
-#EXTINF:-1,金鹰卡通
-http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/
-#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="地方",茶友频道
-http://gslbserv.itv.cmvideo.cn/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/快乐垂钓.png" group-title="体育频道" response-time="13ms",快乐垂钓
-http://121.19.134.88:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,快乐垂钓
-https://cntv.lat/tv?auth=202311030915&id=klcd
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="地方",快乐垂钓
-http://gslbserv.itv.cmvideo.cn/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/兵器科技.png" group-title="其他频道" response-time="23ms",兵器科技
-http://112.234.21.45:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,兵器科技
-http://hls.live.cqccn.com/__cl/cg:live/__c/bqkj/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/怀旧剧场.png" group-title="影视频道" response-time="24ms",怀旧剧场
-http://112.234.21.45:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,怀旧剧场
-http://hls.live.cqccn.com/__cl/cg:live/__c/hjjc/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/世界地理.png" group-title="科教频道" response-time="15ms",世界地理
 http://101.74.28.119:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/世界地理.png" group-title="科教频道" response-time="16ms",世界地理
 http://101.74.28.175:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/世界地理.png" group-title="科教频道" response-time="19ms",世界地理
 http://101.74.28.84:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/世界地理.png" group-title="科教频道" response-time="23ms",世界地理
-http://112.234.21.45:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/世界地理.png" group-title="科教频道" response-time="80ms",世界地理
 http://49.234.31.101:7033/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,文化精品
-http://hls.live.cqccn.com/__cl/cg:live/__c/yswh/__op/default/__f/index.m3u8
-#EXTINF:-1,央视台球
-http://hls.live.cqccn.com/__cl/cg:live/__c/ystq/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/风云剧场.png" group-title="影视频道" response-time="24ms",风云剧场
-http://112.234.21.45:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/风云剧场.png" group-title="影视频道" response-time="71ms",风云剧场
 http://49.234.31.101:7033/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,风云剧场
-http://hls.live.cqccn.com/__cl/cg:live/__c/fyjc/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/风云音乐.png" group-title="娱乐综艺" response-time="23ms",风云音乐
-http://112.234.21.45:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/风云音乐.png" group-title="娱乐综艺" response-time="73ms",风云音乐
 http://49.234.31.101:7033/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,风云音乐
-http://hls.live.cqccn.com/__cl/cg:live/__c/fyyy/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/第一剧场.png" group-title="影视频道" response-time="24ms",第一剧场
-http://112.234.21.45:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,第一剧场
-http://hls.live.cqccn.com/__cl/cg:live/__c/diyijuchang/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CCTVWomensFashion.cn@SD",女性时尚 (576p)
-http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/风云足球.png" group-title="体育频道" response-time="27ms",风云足球
-http://112.234.21.45:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/风云足球.png" group-title="体育频道" response-time="76ms",风云足球
 http://49.234.31.101:7033/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,风云足球
-http://hls.live.cqccn.com/__cl/cg:live/__c/fyzq/__op/default/__f/index.m3u8
-#EXTINF:-1,超级综艺
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8
-#EXTINF:-1,中国功夫
-http://ott.mobaibox.com/PLTV/4/224/3221227530/index.m3u8
-#EXTINF:-1,军旅剧场
-http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1,军旅剧场
-http://111.40.196.28:443/PLTV/88888888/224/3221225622/1.m3u8
-#EXTINF:-1,炫舞未来
-http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
-#EXTINF:-1,潮妈辣婆
-http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1,潮妈辣婆
-http://111.40.196.25:443/PLTV/88888888/224/3221225680/1.m3u8
-#EXTINF:-1,精品体育
-http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1,精品纪录
-http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1,精品纪录
-http://111.40.196.27:443/PLTV/88888888/224/3221225630/1.m3u8
-#EXTINF:-1,家庭剧场
-http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1,家庭剧场
-http://111.40.196.28:443/PLTV/88888888/224/3221225626/1.m3u8
-#EXTINF:-1,精品大剧
-http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1,军事评论
-http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
-#EXTINF:-1,明星大片
-http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1,欢笑剧场 4K
-
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="SiTV",欢笑剧场 4K
-http://gslbserv.itv.cmvideo.cn/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="",精品电影 (1080p)
-http://183.207.248.71/cntv/live1/jdianying/jdianying
-#EXTINF:-1,CCTV·风云足球
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
-#EXTINF:-1,CCTV·高尔夫网球
-http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228138/index.m3u8
-#EXTINF:-1,CCTV·女性时尚
-http://ott.mobaibox.com/PLTV/4/224/3221227026/index.m3u8
-#EXTINF:-1,中央新影·老故事
-http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
-#EXTINF:-1,中央新影·发现之旅
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
-#EXTINF:-1,纪实科教
-https://live.metshop.top/bestv.php?id=dajs8m/8000000
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方",纪实科教
-http://gslbserv.itv.cmvideo.cn/1000000001000001910/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=3
