@@ -6,7 +6,7 @@
 **IPTV 直播数据分享 | 每天自动采集更新**
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
-![Channels](https://img.shields.io/badge/Channels-2751+-orange)
+![Channels](https://img.shields.io/badge/Channels-46+-orange)
 ![Auto Update](https://img.shields.io/badge/Auto_Update-每日-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -14,7 +14,7 @@
 
 ## 🚀 项目简介
 
-这是一个功能强大的 IPTV 直播数据采集和处理工具仓库。项目可以从多个来源获取直播源数据，进行有效性验证，并生成标准的 M3U8 播放列表文件。
+这是一个功能强大的 IPTV 直播数据采集和汇总地址的仓库。项目可以从多个来源获取直播源数据，进行有效性验证，并生成标准的 M3U8 播放列表文件。
 
 **✨ 核心特点：**
 - 🔄 **每日自动更新** - 确保直播源的有效性
@@ -25,7 +25,7 @@
 
 ```bash
 iptv-sources/
-├── 📋 cn_all.m3u8          # 完整播放列表（2,751个频道）
+├── 📋 cn_all.m3u8          # 完整播放列表（46+个频道）
 ├── 📡 cn_cctv.m3u8         # 央视频道列表
 ├── 🏢 cn_province.m3u8     # 卫视频道列表  
 ├── 💎 cn_pay.m3u8          # 付费频道列表
@@ -63,7 +63,7 @@ iptv-sources/
 - **文件**: `cn_pay.m3u8`
 
 ### 📋 完整列表
-- **包含**: 📺所有 2,751 个频道
+- **包含**: 📺所有 46+ 个频道
 - **文件**: `cn_all.m3u8`
 
 ## ⚠️ 注意事项
@@ -85,11 +85,25 @@ iptv-sources/
 
 ---
 
+## 🙏 数据源致谢
+
+本项目的数据源部分数据于以下优秀的开源项目，感谢这些项目的贡献者：
+
+- **mzky/checklist** - https://github.com/mzky/checklist
+- **ssili126/tv** - https://github.com/ssili126/tv
+- **hujingguang/ChinaIPTV** - https://github.com/hujingguang/ChinaIPTV
+- **kaige-cai/live** - https://github.com/kaige-cai/live
+- **BurningC4/Chinese-IPTV** - https://github.com/BurningC4/Chinese-IPTV
+- **iptv-org/iptv** - https://iptv-org.github.io
+- **ibert.me** - https://m3u.ibert.me
+
 <div align="center">
 
 **🌟 如果这个项目对你有帮助，请给个 Star！**
 
 </div>
+
+
 
 
 
