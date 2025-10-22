@@ -17,19 +17,24 @@
 这是一个功能强大的 IPTV 直播数据采集和汇总地址的仓库。项目可以从多个来源获取直播源数据，进行有效性验证，并生成标准的 M3U8 播放列表文件。
 
 **✨ 核心特点：**
-- 🔄 **每日自动更新** - 确保直播源的有效性
+- 🔄 **每日自动更新** - 每日凌晨自动运行采集确保直播源的有效性
 - ✅ **智能验证** - 自动检测可播放性
 - 📊 **数据分类** - 按频道类型整理
+
 
 ## 📁 项目结构
 
 ```bash
 iptv-sources/
-├── 📋 cn_all.m3u8          # 完整播放列表（46+个频道）
-├── 📡 cn_cctv.m3u8         # 央视频道列表
-├── 🏢 cn_province.m3u8     # 卫视频道列表  
-├── 💎 cn_pay.m3u8          # 付费频道列表
-└── 📖 README.md            # 项目说明文档
+├── 📋 cn_all.m3u8                 # 完整播放列表（46+个频道）
+├── 📋 cn_all_status.m3u8          # 完整播放列表（46+个频道 含分辨率、流畅度）
+├── 📡 cn_cctv.m3u8                # 央视频道列表
+├── 📡 cn_cctv_status.m3u8         # 央视频道列表（含分辨率、流畅度）
+├── 🏢 cn_province.m3u8            # 卫视频道列表  
+├── 🏢 cn_province_status.m3u8     # 卫视频道列表（含分辨率、流畅度）  
+├── 💎 cn_pay.m3u8                 # 付费频道列表
+├── 💎 cn_pay_status.m3u8          # 付费频道列表（含分辨率、流畅度）
+└── 📖 README.md                   # 项目说明文档
 ```
 
 ## ✨ 功能特性
@@ -42,8 +47,8 @@ iptv-sources/
 | **有效性验证** | ✅ | ✅ | 自动检测直播源的可播放性和响应时间 |
 | **频道分类** | ✅ | 📺 | 支持央视、卫视、付费频道等多种分类 |
 | **智能去重** | ✅ | 🎯 | 自动去除重复的直播源 |
-| **清晰度排序** | ❌ | 📊 | 按视频清晰度自动排序 |
-| **跨域检测** | ❌ | 🌐 | 检测直播源是否支持跨域访问 |
+| **清晰度排序** | ✅ | 📊 | 按视频清晰度自动排序 |
+| **跨域检测** | ✅ | 🌐 | 检测直播源是否支持跨域访问 |
 | **M3U8 生成** | ✅ | 📝 | 生成标准格式的 M3U8 播放列表 |
 
 </div>
@@ -66,6 +71,61 @@ iptv-sources/
 - **包含**: 📺所有 46+ 个频道
 - **文件**: `cn_all.m3u8`
 
+
+
+## 📡 播放源地址
+
+
+### 🎯 源播放文件
+
+以下是项目生成的播放列表文件，可以直接在支持 M3U8 格式的播放器中使用：
+
+| 文件名称 | 频道数量 | 描述 | 源链接 | 代理链接 |
+|----------|----------|------|----------|----------|
+| `cn_all.m3u8` | 46+ | 完整播放列表（包含所有频道） | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_all.m3u8) |[下载](https://raw.staticdn.net/best-fan/iptv-sources/master/cn_all.m3u8) |
+| `cn_all_status.m3u8` | 46+ | 完整播放列表（含分辨率、流畅度） | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_all_status.m3u8) |[下载](https://raw.staticdn.net/best-fan/iptv-sources/master/cn_all_status.m3u8) |
+| `cn_cctv.m3u8` | 10+ | 央视频道列表 | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_cctv.m3u8) |[下载](https://raw.staticdn.net/best-fan/iptv-sources/master/cn_cctv.m3u8) |
+| `cn_cctv_status.m3u8` | 10+ | 央视频道列表（含分辨率、流畅度） | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_cctv_status.m3u8) |[下载](https://raw.staticdn.net/best-fan/iptv-sources/master/cn_cctv_status.m3u8) |
+| `cn_province.m3u8` | 37 | 卫视频道列表 | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_province.m3u8) | [下载](https://raw.staticdn.net/best-fan/iptv-sources/master/cn_province.m3u8) |
+| `cn_province_status.m3u8` | 37 | 卫视频道列表（含分辨率、流畅度） | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_province_status.m3u8) | [下载](https://raw.staticdn.net/best-fan/iptv-sources/master/cn_province_status.m3u8) |
+| `cn_pay.m3u8` | 45 | 付费频道列表 | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_pay.m3u8) |[下载](https://raw.staticdn.net/best-fan/iptv-sources/master/cn_pay.m3u8) |
+| `cn_pay_status.m3u8` | 45 | 付费频道列表（含分辨率、流畅度） | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_pay_status.m3u8) |[下载](https://raw.staticdn.net/best-fan/iptv-sources/master/cn_pay_status.m3u8) |
+
+
+
+
+### 📱 使用方式
+
+1. **直接下载使用**：
+   - 点击上方链接下载对应的 M3U8 文件
+   - 在支持 M3U8 格式的播放器中打开文件
+
+2. **在线播放**：
+   - 使用支持网络播放的播放器
+   - 输入文件原始链接地址
+
+3. **推荐播放器**：
+   - **VLC Media Player** - 跨平台支持
+   - **PotPlayer** - Windows 平台
+   - **IINA** - macOS 平台
+   - **MX Player** - 移动端
+
+
+
+
+
+## 🙏 数据源致谢
+
+本项目的数据源部分数据于以下优秀的开源项目，感谢这些项目的贡献者：
+
+- **mzky/checklist** - https://github.com/mzky/checklist
+- **ssili126/tv** - https://github.com/ssili126/tv
+- **hujingguang/ChinaIPTV** - https://github.com/hujingguang/ChinaIPTV
+- **kaige-cai/live** - https://github.com/kaige-cai/live
+- **BurningC4/Chinese-IPTV** - https://github.com/BurningC4/Chinese-IPTV
+- **iptv-org/iptv** - https://iptv-org.github.io
+- **ibert.me** - https://m3u.ibert.me
+
 ## ⚠️ 注意事项
 
 <div align="center">
@@ -80,22 +140,9 @@ iptv-sources/
 </div>
 
 ## 📄 许可证
-
-本项目采用 **MIT 许可证**，仅供学习和研究使用。
+本项目采用 **MIT** 许可证，仅供学习和研究使用。
 
 ---
-
-## 🙏 数据源致谢
-
-本项目的数据源部分数据于以下优秀的开源项目，感谢这些项目的贡献者：
-
-- **mzky/checklist** - https://github.com/mzky/checklist
-- **ssili126/tv** - https://github.com/ssili126/tv
-- **hujingguang/ChinaIPTV** - https://github.com/hujingguang/ChinaIPTV
-- **kaige-cai/live** - https://github.com/kaige-cai/live
-- **BurningC4/Chinese-IPTV** - https://github.com/BurningC4/Chinese-IPTV
-- **iptv-org/iptv** - https://iptv-org.github.io
-- **ibert.me** - https://m3u.ibert.me
 
 <div align="center">
 
