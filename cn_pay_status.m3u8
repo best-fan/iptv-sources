@@ -1,10 +1,8 @@
 #EXTM3U
 #PLAYLIST: IPTV Channel List
 #AUTHOR: Jenkins Auto Build
-#DATE: 2025-11-01 07:13:03
-#EXTINF:-1 tvg-name="金鹰纪实[1080][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰纪实.png" group-title="其他频道" response-time="105ms",金鹰纪实
-http://61.184.46.85:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通[1080][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="21ms",金鹰卡通
+#DATE: 2025-11-02 04:29:51
+#EXTINF:-1 tvg-name="金鹰卡通[1080][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="22ms",金鹰卡通
 http://221.13.235.192:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通[576][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="38ms",金鹰卡通
-http://124.228.160.15:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="湖南台" tvg-id="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
+http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1od19waG9uZSZjaHM9JmRlZj0xJnM9MDliNDdmZjkxODgzMDU3YzgyOWFkYmRmNDZmOWYyYmQmdWlkPSZ1dWlkPTE5OGMzODQwOGMyMjBmYTYyNzM5MjdhNzU0ZTI1MTU0LTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3NjIwMzM3Mjg,/JYKTMPP360.m3u8
