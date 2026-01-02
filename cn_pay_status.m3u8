@@ -1,20 +1,16 @@
 #EXTM3U
 #PLAYLIST: IPTV Channel List
 #AUTHOR: Jenkins Auto Build
-#DATE: 2026-01-02 05:11:55
+#DATE: 2026-01-03 05:52:24
 #EXTINF:-1 tvg-name="凤凰中文[576][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="其他频道" response-time="120ms",凤凰中文
 http://27.41.245.32:801/hls/205/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文[576][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="其他频道" response-time="120ms",凤凰中文
 http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通[1080][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="22ms",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通[1080][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="21ms",金鹰卡通
 http://221.13.235.58:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通[1080][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="23ms",金鹰卡通
-http://221.13.234.7:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通[1080][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="23ms",金鹰卡通
-http://221.13.235.229:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通[1080][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="23ms",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通[1080][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="22ms",金鹰卡通
 http://221.13.234.199:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通[576][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="16ms",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通[576][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="20ms",金鹰卡通
 http://113.25.252.226:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="湖南台" tvg-id="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz04MThmOTRiY2M0MWUzYjRjNWM1M2NkOTYwOGQxNWUzMSZ1aWQ9JnV1aWQ9ODk1ZWEzNTIzYjEyZjE1OTkxNDg3Y2RjN2RjY2ZjYzktNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2NzMxMTc1Ng,,/JYKTMPP360.m3u8
+http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1od19waG9uZSZjaHM9JmRlZj0xJnM9MmY2ZmFjZjFkMmFmYzRmZTEzNTIyYzJkZDAwYTdmZWImdWlkPSZ1dWlkPWY3YjY3ZWU3Mzk0Mzg2MDc4Y2FjYzVkZmFjZDA5Mzc2LTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3NjczOTg1Njg,/JYKTMPP360.m3u8
