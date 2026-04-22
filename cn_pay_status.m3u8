@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: IPTV Channel List
 #AUTHOR: Jenkins Auto Build
-#DATE: 2026-04-22 14:25:52
+#DATE: 2026-04-23 05:17:37
 #EXTINF:-1 tvg-name="凤凰中文[576][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="其他频道" response-time="50ms",凤凰中文
 http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="凤凰资讯[1080][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="其他频道" response-time="120ms",凤凰资讯
@@ -16,5 +16,3 @@ http://101.66.199.163:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=
 http://101.66.198.95:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通[576][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="37ms",金鹰卡通
 http://101.66.198.164:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="湖南台" tvg-id="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
-http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWh3X3Bob25lJmNocz0mZGVmPTEmcz0wNWE0MmJhMTM3N2U1OGE5ZjM0NDI3MDQ4ZjU3M2Q5ZiZ1aWQ9JnV1aWQ9OTAzNDBiZmY3MTdkMzIzYTgyNmFiNzAzM2JhYTE4OTMtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc3Njg0NTkwNw,,/JYKTMPP360.m3u8
