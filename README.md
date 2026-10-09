@@ -12,7 +12,7 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/best-fan/iptv-sources)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/best-fan/iptv-sources)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbest-fan%2Fiptv-sources&label=VISITORS)
+![Visitors](https://hits.sh/github.com/best-fan/iptv-sources.svg?style=flat&label=Visitors&labelColor=34275f&color=8957e5)
 
 </div>
 
