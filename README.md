@@ -10,6 +10,10 @@
 ![Auto Update](https://img.shields.io/badge/Auto_Update-每日-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![Last Commit](https://img.shields.io/github/last-commit/best-fan/iptv-sources)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/best-fan/iptv-sources)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbest-fan%2Fiptv-sources&label=VISITORS)
+
 </div>
 
 ## 🚀 项目简介
@@ -82,14 +86,14 @@ iptv-sources/
 
 | 文件名称 | 频道数量 | 描述 | 源链接 | 代理链接 |
 |----------|----------|------|----------|----------|
-| `cn_all.m3u8` | 46+ | 完整播放列表（包含所有频道） | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_all.m3u8) |[下载](https://raw.staticdn.net/best-fan/iptv-sources/master/cn_all.m3u8) |
-| `cn_all_status.m3u8` | 46+ | 完整播放列表（含分辨率、流畅度） | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_all_status.m3u8) |[下载](https://raw.staticdn.net/best-fan/iptv-sources/master/cn_all_status.m3u8) |
-| `cn_cctv.m3u8` | 10+ | 央视频道列表 | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_cctv.m3u8) |[下载](https://raw.staticdn.net/best-fan/iptv-sources/master/cn_cctv.m3u8) |
-| `cn_cctv_status.m3u8` | 10+ | 央视频道列表（含分辨率、流畅度） | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_cctv_status.m3u8) |[下载](https://raw.staticdn.net/best-fan/iptv-sources/master/cn_cctv_status.m3u8) |
-| `cn_province.m3u8` | 37 | 卫视频道列表 | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_province.m3u8) | [下载](https://raw.staticdn.net/best-fan/iptv-sources/master/cn_province.m3u8) |
-| `cn_province_status.m3u8` | 37 | 卫视频道列表（含分辨率、流畅度） | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_province_status.m3u8) | [下载](https://raw.staticdn.net/best-fan/iptv-sources/master/cn_province_status.m3u8) |
-| `cn_pay.m3u8` | 45 | 付费频道列表 | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_pay.m3u8) |[下载](https://raw.staticdn.net/best-fan/iptv-sources/master/cn_pay.m3u8) |
-| `cn_pay_status.m3u8` | 45 | 付费频道列表（含分辨率、流畅度） | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_pay_status.m3u8) |[下载](https://raw.staticdn.net/best-fan/iptv-sources/master/cn_pay_status.m3u8) |
+| `cn_all.m3u8` | 46+ | 完整播放列表（包含所有频道） | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_all.m3u8) |[下载](https://gh.bravetimes.cn/https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_all.m3u8) |
+| `cn_all_status.m3u8` | 46+ | 完整播放列表（含分辨率、流畅度） | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_all_status.m3u8) |[下载](https://gh.bravetimes.cn/https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_all_status.m3u8) |
+| `cn_cctv.m3u8` | 10+ | 央视频道列表 | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_cctv.m3u8) |[下载](https://gh.bravetimes.cn/https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_cctv.m3u8) |
+| `cn_cctv_status.m3u8` | 10+ | 央视频道列表（含分辨率、流畅度） | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_cctv_status.m3u8) |[下载](https://gh.bravetimes.cn/https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_cctv_status.m3u8) |
+| `cn_province.m3u8` | 37 | 卫视频道列表 | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_province.m3u8) | [下载](https://gh.bravetimes.cn/https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_province.m3u8) |
+| `cn_province_status.m3u8` | 37 | 卫视频道列表（含分辨率、流畅度） | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_province_status.m3u8) | [下载](https://gh.bravetimes.cn/https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_province_status.m3u8) |
+| `cn_pay.m3u8` | 45 | 付费频道列表 | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_pay.m3u8) |[下载](https://gh.bravetimes.cn/https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_pay.m3u8) |
+| `cn_pay_status.m3u8` | 45 | 付费频道列表（含分辨率、流畅度） | [下载](https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_pay_status.m3u8) |[下载](https://gh.bravetimes.cn/https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_pay_status.m3u8) |
 
 
 
@@ -139,11 +143,21 @@ iptv-sources/
 
 </div>
 
+---
+
+## ⭐ Star 趋势
+
+<div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=best-fan/iptv-sources&type=Date)](https://star-history.com/#best-fan/iptv-sources&Date)
+
+</div>
+
+---
 ## 📄 许可证
 本项目采用 **MIT** 许可证，仅供学习和研究使用。
 
 ---
-
 <div align="center">
 
 **🌟 如果这个项目对你有帮助，请给个 Star！**
